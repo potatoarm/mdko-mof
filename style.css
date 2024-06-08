@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+
+r {
+    color: red
+}
+
+div {
+    border: 3px solid rgba(240, 154, 154, 0.641);
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 25px;
+}
